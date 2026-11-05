@@ -1,5 +1,7 @@
 # 🎓 Student Project Bank
 
+🌐 **Live store: https://nammaprojects.com — browse all 5,000 projects**
+
 ## 🚀 1,000 Latest Engineering & Masters Projects — with Full Training
 
 > **Not just a project. A project you actually learn.** Every project in this bank comes with source code, a complete report, a presentation (PPT) **and step-by-step training**, so you understand your own project end to end and can face reviews and viva with confidence.
